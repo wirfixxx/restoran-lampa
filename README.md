@@ -1,2 +1,2 @@
-# restoran-ampa
+# restoran-lampa
 сайт по выдуманному ресторану лампа
